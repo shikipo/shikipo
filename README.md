@@ -4,7 +4,7 @@
 
 **These days I’m focused on:**
 - React, TypeScript, Tailwind
-- UI components with subtle motion
+- Discord bots
 - Small, thoughtful projects
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shikipo&color=0e75b6&abbreviated=true&style=flat" alt="shikipo" /></p>
