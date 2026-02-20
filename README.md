@@ -5,29 +5,13 @@
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satnaing&label=Profile%20views&color=0e75b6&style=flat-square" alt="shikipo" /></p>
 
-- 💼 I’m currently working as a **Senior Frontend Developer** at [Trienpont International](https://github.com/trienpont-agency).
-
-- 🌟 I’m available for freelance projects. You can reach me at [contact@satnaing.dev](mailto:contact@satnaing.dev).
+- 💼 I’m currently working as a **Frontend Developer** at [VidiVastIP Law Firm](https://vidivastip.com/).
 
 - 👨‍💻 I contribute to open-source projects, and if you find my work helpful, please consider [sponsoring me](https://github.com/sponsors/satnaing).
-
-- 🚀 Check out my website at <a href="https://satnaing.dev" target="_blank">satnaing.dev</a> or just [Google](https://www.google.com/search?q=sat+naing) my name.
 
 **What I'm currently working on**
 - Exploring **full-stack web development projects**
 - Experimenting with **automation and Discord bots**
-
----
-
-### Tools I use
-| Category | Tools |
-|----------|-------|
-| Programming Languages | JavaScript, TypeScript, SQL |
-| Web Development | HTML, CSS, React, Node.js |
-| Databases | MySQL, PostgreSQL |
-| Other Tools | VS Code, Supabase |
-
-![Static Badge](https://img.shields.io/badge/codepen-black?style=for-the-badge&link=https%3A%2F%2Fcodepen.io%2Fshikipo)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
