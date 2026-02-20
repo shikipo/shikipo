@@ -4,13 +4,13 @@ I'm a software developer and database enthusiast. I enjoy building clean, effici
 
 ---
 
-## What I'm currently working on
+**What I'm currently working on**
 - Exploring **full-stack web development projects**
 - Experimenting with **automation and Discord bots**
 
 ---
 
-## Tools I use
+### Tools I use
 | Category | Tools |
 |----------|-------|
 | Programming Languages | JavaScript, TypeScript, SQL |
