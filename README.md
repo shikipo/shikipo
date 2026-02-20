@@ -7,7 +7,7 @@
 - UI components with subtle motion
 - Small, thoughtful projects
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shikipo&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="shikipo" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shikipo&base=1000&color=0e75b6&abbreviated=true&style=flat" alt="shikipo" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
