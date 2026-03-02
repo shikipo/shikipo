@@ -7,6 +7,9 @@ I’m Shikipo, a fullstack developer based in Germany.
 - Interactive UI Components
 - Discord bot as a hobby
 
+<img src="https://komarev.com/ghpvc/?username=shikipo&color=0e75b6&abbreviated=true&style=flat" alt="shikipo" />
+---
+
 ### Some stuff I built:
 
 - End-to-end web applications
@@ -14,29 +17,7 @@ I’m Shikipo, a fullstack developer based in Germany.
 - Typed APIs and structured backend logic
 - Clean, animation-enhanced UIs
 
-### My config:
-
-```javascript
-export const shikipo = {
-  fullStackMode: true,
-  wantsToUnderstandEverything: true,
-  _beveragePriority: ["coffee"],
-
-  get beverage() {
-    return this._beveragePriority[0]; // coffee <3
-  },
-
-  set beverage(drink) {
-    if (drink === "tea") return;
-    this._beveragePriority = [
-      this._beveragePriority[0],
-      ...new Set([drink, ...this._beveragePriority.slice(1)]),
-    ];
-  },
-};
-```
-
-<img src="https://komarev.com/ghpvc/?username=shikipo&color=0e75b6&abbreviated=true&style=flat" alt="shikipo" />
+---
 
 ### Connect with me:
 <!-- <a href="https://codepen.io/shikipo" target="_blank"><img align="center" src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4NCjwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KDTxnIGlkPSJTVkdSZXBvX2JnQ2FycmllciIgc3Ryb2tlLXdpZHRoPSIwIi8+Cg08ZyBpZD0iU1ZHUmVwb190cmFjZXJDYXJyaWVyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KDTxnIGlkPSJTVkdSZXBvX2ljb25DYXJyaWVyIj4gPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xMS40MjY1IDEuMTgwNzdDMTEuNzcwOSAwLjkzOTc0NCAxMi4yMjkxIDAuOTM5NzQ0IDEyLjU3MzUgMS4xODA3N0wyMi41NzM1IDguMTgwNzdDMjIuODQwOCA4LjM2NzkgMjMgOC42NzM2OSAyMyA5VjE2QzIzIDE2LjMyNjMgMjIuODQwOCAxNi42MzIxIDIyLjU3MzUgMTYuODE5MkwxMi41NzM1IDIzLjgxOTJDMTIuMjI5MSAyNC4wNjAzIDExLjc3MDkgMjQuMDYwMyAxMS40MjY1IDIzLjgxOTJMMS40MjY1NCAxNi44MTkyQzEuMTU5MjEgMTYuNjMyMSAxIDE2LjMyNjMgMSAxNlY5QzEgOC42NzM2OSAxLjE1OTIxIDguMzY3OSAxLjQyNjU0IDguMTgwNzdMMTEuNDI2NSAxLjE4MDc3Wk0zIDEwLjkyMDdWMTQuMDc5M0w1LjI1NjIxIDEyLjVMMyAxMC45MjA3Wk03IDEzLjcyMDdMMy43NDM3OSAxNkwxMSAyMS4wNzkzVjE2LjUyMDdMNyAxMy43MjA3Wk0xMyAxNi41MjA3VjIxLjA3OTNMMjAuMjU2MiAxNkwxNyAxMy43MjA3TDEzIDE2LjUyMDdaTTE4Ljc0MzggMTIuNUwyMSAxNC4wNzkzVjEwLjkyMDdMMTguNzQzOCAxMi41Wk0yMC4yNTYyIDlMMTcgMTEuMjc5M0wxMyA4LjQ3OTM0VjMuOTIwNjZMMjAuMjU2MiA5Wk0xMSAzLjkyMDY2VjguNDc5MzRMNyAxMS4yNzkzTDMuNzQzNzkgOUwxMSAzLjkyMDY2Wk0xMiAxMC4yMjA3TDguNzQzNzkgMTIuNUwxMiAxNC43NzkzTDE1LjI1NjIgMTIuNUwxMiAxMC4yMjA3WiIgZmlsbD0iI2ZmZmZmZiIvPiA8L2c+Cg08L3N2Zz4=" alt="Shikipo's Codepen Account" /></a> -->
